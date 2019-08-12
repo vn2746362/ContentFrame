@@ -1,0 +1,8 @@
+<resources>
+    <style name="ContentFrameTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.horizon.contentframe" >
+    <application>
+        <activity
+            android:name=".ContentActivity"
+            android:theme="@style/ContentFrameTheme"/>
+    </application>
+</manifest>
