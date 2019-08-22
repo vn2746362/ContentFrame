@@ -1,7 +1,5 @@
 package com.horizon.sample;
 
-import android.util.Log;
-
 import com.horizon.contentframe.ContentFragment;
 
 public class FragmentSample extends ContentFragment {

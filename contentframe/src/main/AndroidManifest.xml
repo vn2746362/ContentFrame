@@ -3,6 +3,7 @@
     <application>
         <activity
             android:name=".ContentActivity"
-            android:theme="@style/ContentFrameTheme"/>
+            android:theme="@style/ContentFrameTheme"
+            android:configChanges="orientation|screenSize"/>
     </application>
 </manifest>
