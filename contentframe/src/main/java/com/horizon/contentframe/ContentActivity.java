@@ -124,7 +124,8 @@ public class ContentActivity extends AppCompatActivity {
         super.onDestroy();
     }
 
-    public void backPressed() {
+    @Override
+    public void onBackPressed() {
         Fragment f = getVisibleFragment();
         if(f == null){
             super.onBackPressed();
